@@ -15,5 +15,5 @@ for more optional arguments:
 `python Inventory.py --help`
 
 ## Install
-```git clone https://github.com/awakzdev/Pandas-Inventory; pip install pandas```
+```git clone https://github.com/awakzdev/Pandas-Inventory; pip install -r requirements.txt```
 

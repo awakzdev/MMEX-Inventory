@@ -12,7 +12,7 @@ Takes 'num' as a positional argument.
 num = What memory are you looking for? min of 2 letters are sufficient.
 
 for more optional arguments:
-`python Inventory.py --help`
+`python progress.py --help`
 
 ## Install
 ```git clone https://github.com/awakzdev/Pandas-Inventory; pip install -r requirements.txt```

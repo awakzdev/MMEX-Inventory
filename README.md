@@ -4,7 +4,7 @@ Will allow a certain interaction within the Inventory sheet. (Intel MMEX Team)
 # General
 Read.py will - just for reading (Will deliver faster results if only reading is necessary)
 
-main.py - read/write
+progress.py - read/write
 
 ## Note - Inventory.py takes Positional Argument 
 Takes 'num' as a positional argument.

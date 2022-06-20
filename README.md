@@ -1,5 +1,5 @@
 # Inventory
-Will allow a certain interaction within the Inventory sheet. (Intel MMEX Team)
+Will allow a certain interaction within the Inventory excel sheet for MMEX team (Intel)
 
 # General
 Read.py will - just for reading (Will deliver faster results if only reading is necessary)
